@@ -1,5 +1,4 @@
-package com.jenkov.cliargs;
-
+// cli-args by jjenkov: https://github.com/jjenkov/cli-args
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.HashMap;
